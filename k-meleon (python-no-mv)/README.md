@@ -1,10 +1,10 @@
 <!-- PROJECT LOGO -->
 <p align="center">
 
-  <h3 align="center">Python implementation of %SOMENAME%</h3>
+  <h3 align="center">Python implementation of K-MELEON</h3>
 
   <p align="center">
-    An implementation of the %SOMENAME%.
+    An implementation of the K_MELEON.
   </p>
 </p>
 
@@ -57,7 +57,7 @@ pip3 install statistics
 ### Run
 * To run the application:
 ```sh
-python main.py <filepath> [options]
+python3 main.py <filepath> [options]
 ```
 Options:
 
@@ -85,7 +85,7 @@ output/<filename>-<epoch>-<hash>-<key>-<T>.out
 
 * To test the application:
 ```sh
-python test.py <filepath> [target timestamp]* [options]
+python3 test.py <filepath> [target timestamp]* [options]
 ```
 or (Windows)
 ```sh
