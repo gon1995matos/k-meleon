@@ -31,4 +31,4 @@ In this work I present k-meleon, an in-network online change detection system th
 <!-- CONTACT -->
 ## Contact
 
-Gonçalo Matos -  goncalo.o.matos@tecnico.ulisboa.pt
+Anonymous
